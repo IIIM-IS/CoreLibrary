@@ -1,5 +1,20 @@
-# Release folders
+# Build folders
 */Release/*
+*/x64/*
+*/Debug/*
 
 # Debug folders
 */Debug/*
+
+# Build output files
+*.log
+*.tlog
+*.obj
+*.pdb
+*.idb
+
+# Others
+.vs/*
+*.user
+*.txt
+
